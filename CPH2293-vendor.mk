@@ -39,6 +39,5 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/CPH2293/proprietary/system_ext/lib64/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.videotelephony@1.0.so
 
 PRODUCT_PACKAGES += \
-    EngineerMode \
     mediatek-ims-extension-plugin \
     mediatek-ims-legacy
